@@ -1,0 +1,43 @@
+bread 3 milk 5 butter 4 eggs 2
+rice 6 oil 5 sugar 3
+bread 4 milk 3 tea 2 sugar 2
+milk 5 coffee 4 sugar 2
+bread 3 butter 5 eggs 4
+rice 7 oil 4 tea 3
+milk 6 bread 2 fruits 4
+coffee 5 sugar 3 milk 2
+bread 4 rice 5 oil 3
+eggs 5 butter 4 milk 3
+
+bread 5 milk 4 sugar 3
+rice 6 oil 5 coffee 4
+bread 3 eggs 4 butter 2
+milk 5 fruits 6
+coffee 4 sugar 3 bread 2
+rice 7 oil 6 tea 2
+bread 4 milk 3 butter 5
+eggs 6 fruits 4 sugar 3
+milk 5 coffee 6 tea 3
+bread 4 rice 6 oil 5
+
+bread 5 milk 4 butter 3
+rice 6 sugar 4 tea 3
+milk 6 coffee 5 bread 2
+eggs 7 butter 4
+bread 3 fruits 5 milk 4
+rice 7 oil 6 sugar 3
+coffee 6 milk 3 tea 2
+bread 4 butter 5 eggs 3
+milk 5 fruits 6 sugar 2
+rice 6 oil 4 tea 3
+
+bread 5 milk 6 butter 4
+eggs 7 sugar 3
+coffee 5 milk 4 tea 3
+bread 4 fruits 6
+rice 7 oil 5 sugar 4
+milk 6 bread 3 butter 4
+eggs 5 fruits 6
+coffee 6 sugar 4 milk 3
+bread 5 rice 6 oil 4
+milk 7 butter 5 tea 3
